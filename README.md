@@ -1,12 +1,15 @@
 # Cricket_T20_BestPlayers_Analysis
 
 Overview
+
 This project involves creating the best cricket team of 11 players from the T20 2022 World Cup match data. The data was collected through web scraping and analyzed to identify the top-performing players based on various metrics.
 
 Introduction
+
 The goal of this project is to analyze match data from the T20 2022 World Cup and select the best cricket team of 11 players. This involves collecting data, cleaning it, analyzing player performance, and finally choosing the top players to form the best team.
 
 Data Collection
+
 The data for this project was collected through web scraping. The following steps were undertaken:
 
 Identified relevant websites containing T20 2022 World Cup match data.
