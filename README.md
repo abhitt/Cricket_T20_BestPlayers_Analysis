@@ -32,4 +32,5 @@ The final team of 11 players was selected based on their overall performance in 
 
 Programming Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 Tools: Jupyter Notebook, PowerBI
